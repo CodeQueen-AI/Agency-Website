@@ -21,11 +21,11 @@ export default function HomePage() {
         </h1>
 
         <p className="text-sm sm:text-base md:text-lg text-gray-300 mt-4 max-w-2xl mx-auto text-center">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
+          Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam, quis nostrud exercitation
         </p>
         <div className="mt-8 flex flex-col sm:flex-row gap-4 items-center">
           <button className="border border-white hover:bg-gradient-to-r from-purple-600 to-pink-400 w-64 px-8 py-4 rounded-full text-white transition duration-500 ease-in-out transform hover:scale-105 text-sm sm:text-base">
-            Let's Get Started
+            Lets Get Started
           </button>
 
           <div className="relative flex items-center justify-center">
